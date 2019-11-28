@@ -1,6 +1,6 @@
 language: nodejs
 node_js:
-  -11.6.0
+  -7.6.0
 cache: npm
 
 install: 
@@ -15,4 +15,3 @@ deploy:
   github-token: $GITHUB_TOKEN
   on:
     branch: master
-    
