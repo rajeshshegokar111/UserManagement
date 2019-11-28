@@ -2,6 +2,7 @@
   "name": "UserManagement",
   "version": "1.0.0",
   "description": "NodeJS + MongoDB API for User Management",
+  "main": "server.js",
   "license": "Rajesh Shegokar",
   "repository": {
     "type": "git",
